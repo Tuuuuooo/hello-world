@@ -1,4 +1,5 @@
 # hello-world
-Just another repository
+
 
 私はリポジトリを作成することは初めてです。
+とても難しいと思っていましたが、思ったより簡単でした。
